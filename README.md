@@ -1,9 +1,8 @@
 # cucap_setup
  Setting up web testing with Cucumber and Capybara 
 
-=====================================================
 Capybara with Cucumber on Non rails App with Chrome driver
-=====================================================
+
 
 Ref: https://testingbot.com/support/getting-started/cucumber.html
 Ref: https://gist.github.com/abeger/2378414
