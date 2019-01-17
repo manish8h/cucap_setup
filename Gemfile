@@ -13,12 +13,8 @@ gem 'selenium-webdriver'
 gem 'capybara-webkit'
 gem 'chromedriver-helper'
 
+# reading writing Excel file
 gem 'rubyXL'
-
-
-
-# Git Utility
-gem 'git-up'
 
 # Debug
 gem 'capybara-screenshot'
