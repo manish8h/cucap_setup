@@ -90,4 +90,3 @@ Capybara::Screenshot.register_driver(:chrome) do |driver, path|
 end
 
 Capybara.default_host = 'http://www.google.com'
-
